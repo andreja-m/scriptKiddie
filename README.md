@@ -1,5 +1,5 @@
-# script-kiddie
-script kiddie
+# Script-Kiddie
+Script-Kiddie is a repo with some "virus" alike scripts i found interesting
 
 - cmd.pyw = opens infinite numbers of cmd / requires python installed
 
