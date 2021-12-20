@@ -5,6 +5,8 @@ Script-Kiddie is a repo with some "virus" alike scripts i found interesting
 
 - vs.bat = opens shut down request with message about "virus", make some random directorys on desktop and show powershell with some "matrix" alike animations / workd only on windows, idea from: ...
 
-vs.bat = looks cool on windows
+- vs.bat = looks cool on windows
 
-hack_nasa.sh = hollywood alike script for 'NASA ATTACK'
+- hack_nasa.sh = hollywood alike script for 'NASA ATTACK'
+
+- forkbomb.sh = freezes unix alike os
